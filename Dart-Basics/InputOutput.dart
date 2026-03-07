@@ -27,5 +27,6 @@ void main(){
 // stdin.readLineSync() always return String
 // !-> means not null
 // int.parse() convert string → integer
+// stdout.write()-> it will not print new line 
 
 
