@@ -11,5 +11,6 @@ void main(){
     var sum = x.reduce((a,b)=>a+b);
     print(sum);
     // fold()
+    
     // expand()
 }
