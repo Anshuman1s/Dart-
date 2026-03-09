@@ -7,6 +7,9 @@ void main(){
     var even = num.where((n)=>n%2==0).toList();
     print(even);
     // reduce()
+    List x = [4,6,2];
+    var sum = x.reduce((a,b)=>a+b);
+    print(sum);
     // fold()
     // expand()
 }
