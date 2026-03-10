@@ -18,8 +18,6 @@ void main(){
     var sumF = y.fold(10,(a,b)=>a+b);
     // How its Working-> Start = 10 now 10+1+2+3+5 = 21
     print(sumF);
-
-    // expand()
     //expand() is used to convert nested collections into a single collection.
     // [[1,2],[3,4],[2,6],[9,10]] --> [1,2,3,4,6,9,10]
     List Elist =  [[1,2],[3,4],[2,6],[9,10]];
