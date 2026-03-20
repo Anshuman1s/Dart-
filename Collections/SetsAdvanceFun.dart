@@ -13,5 +13,14 @@ void main(){
     print(ans);
 
     // any()-> Any mthod checks if methods 
+
+    //First is use to get first element of List or Sets
+    print(rollNo.first);
+    // last is use to get the last value of set or List 
+    print(rollNo.last);
+    // isEmpty is use to check the set or list have value or not
+    print(rollNo.isEmpty);
+    // isNotEmpty return true if set or list have values
+    print(rollNo.isNotEmpty);
     
 }
