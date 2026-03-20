@@ -5,6 +5,6 @@ void main(){
     print(set);
     // Integer Value Set only 
     Set<int> i = [1,2,3,5,6,2,7];
-    // Sting Value Set only 
-    Set<Sting> i = ["A","B","C","D"];
+    // String Value Set only 
+    Set<String> i = ["A","B","C","D"];
 }
