@@ -12,6 +12,6 @@ void main(){
     var ans =rollNo.every((e)=>e%2==0);
     print(ans);
 
-    // any()-> Any mthod checks
+    // any()-> Any mthod checks if methods 
     
 }
